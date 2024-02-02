@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Suleman Hersi 👨🏾‍🚀.
+### 👋 Hey there! I'm Suleman Hersi 👨🏾‍🚀
 
 🚀 About Me:
 - 🌍 Based in Oslo, Norway, I'm a 32-year-old tech enthusiast with a curious mind that never stops exploring. Whether it's the latest in AI, quantum computing, or a new coding challenge, I'm always on the hunt for something new to learn.
