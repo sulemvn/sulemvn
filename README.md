@@ -18,7 +18,6 @@
 
 📫 How to reach me:
 - 📧 Email: [hersi.suleman@icloud.com](mailto:hersi.suleman@icloud.com)
-- 🐱 GitHub: [@sulemvn](https://github.com/sulemvn)
 
 Let's connect and make something awesome together! 🌟
 
