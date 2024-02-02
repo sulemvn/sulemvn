@@ -22,7 +22,7 @@
 
 Let's connect and make something awesome together! 🌟
 
-***Disclaimer:*** *Above text was made with chatgpt-4*
+***Disclaimer:*** *Above text was written by chatgpt-4*
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulemvn&layout=compact&theme=tokyonight&border_color=e303fc)](https://github.com/anuraghazra/github-readme-stats) 
