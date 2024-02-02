@@ -1,6 +1,29 @@
-# Hi
+### 👋 Hey there! I'm Suleman Hersi 👨🏾‍🚀.
 
-I’m Suleman 👨🏾‍🚀, a 32-year-old from Norway 🇳🇴 with a keen interest in all things technical 🔧 and a curious mind that just won’t quit 🤔. I love diving into challenges 🏊‍♂️ and always find myself on the lookout 🔭 for new things to learn and explore 🌍. Whether I’m navigating through technical details 📚 or enjoying a good book 📖, I approach everything with genuine enthusiasm 😄 and a touch of simplicity 🌱. When I’m not immersed in my professional world 🖥️, you might find me embracing my love for fitness 🏋️‍♂️ and sports ⚽. Life, in my eyes, is all about being efficient 🚀, adaptable 🌟, and paying a little extra attention to the small stuff 🔍. More than anything, I’m on a mission to make a positive impact wherever I can, with a smile on my face 😊 and a steadfast spirit 💪.
+🚀 About Me:
+- 🌍 Based in Oslo, Norway, I'm a 32-year-old tech enthusiast with a curious mind that never stops exploring. Whether it's the latest in AI, quantum computing, or a new coding challenge, I'm always on the hunt for something new to learn.
+- 🎓 Currently mastering the art of Mathematical Modelling and Scientific Computing at OsloMet, I'm diving deep into the world of advanced techniques and programming to create innovative solutions.
+- 💼 Consultant by day at Tribia AS, and a coding ninja by night, I love turning complex problems into simple, efficient solutions.
+- 🏃‍♂️ When not coding, I'm probably out running, flexing my muscles at the gym, or scoring goals on the football field.
+
+🔨 Projects:
+- 🌐 Master Thesis on Quantum Simulation based on Bohmian Mechanics – Unraveling the mysteries of quantum physics with computer simulations.
+- ⚽ Analyzing and Predicting Fantasy Premier League Performances – Combining my love for football with data science.
+- 📈 3D CGAN for innovative 3D image generation – Pushing the boundaries of machine learning and image processing.
+
+🎯 I'm passionate about:
+- Solving real-world problems with technology.
+- Continuously learning and pushing the boundaries of what's possible.
+- Making a positive impact and inspiring others along the way.
+
+📫 How to reach me:
+- 📧 Email: [hersi.suleman@icloud.com](mailto:hersi.suleman@icloud.com)
+- 🐱 GitHub: [@sulemvn](https://github.com/sulemvn)
+
+Let's connect and make something awesome together! 🌟
+
+*Made with chatgpt-4*
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulemvn&layout=compact&theme=tokyonight&border_color=e303fc)](https://github.com/anuraghazra/github-readme-stats) 
 
