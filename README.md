@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemvn&show=reviews,prs_merged&hide=contribs&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemvn&show=reviews,prs_merged&hide=contribs&theme=tokyonight&border_color=e303fc)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sulemvn&theme=tokyonight)](https://git.io/streak-stats)
 
