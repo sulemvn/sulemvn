@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemvn&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemvn&show=reviews,prs_merged&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sulemvn&theme=tokyonight)](https://git.io/streak-stats)
 
