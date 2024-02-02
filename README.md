@@ -1,4 +1,3 @@
-# 👨🏾‍🚀🚀🔥
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemvn&show=reviews,prs_merged&hide=contribs&theme=tokyonight&border_color=e303fc)
 
