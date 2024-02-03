@@ -1,2 +1,2 @@
- ### 👉🏾 [read.cv/hersi](www.read.cv/hersi)
+ ### (Read my thoughts 💭 )[https://collectednotes.com/sulemvn]
 
