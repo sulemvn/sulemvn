@@ -1,2 +1,2 @@
- ### Read my thoughts 💭 (blog)[https://collectednotes.com/sulemvn]
+ ### Read my thoughts [💭](https://collectednotes.com/sulemvn/) 👈🏾
 
